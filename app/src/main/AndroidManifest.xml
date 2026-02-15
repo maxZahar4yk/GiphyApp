@@ -27,6 +27,10 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".ui.secondPage.GifActivity"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar"/>
+
 
 
     </application>

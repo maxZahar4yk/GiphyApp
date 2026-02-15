@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PaginationButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">50dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingHorizontal">20dp</item>
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="iconTint">@android:color/white</item>
+        <item name="elevation">4dp</item>
+    </style>
+
+</resources>
